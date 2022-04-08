@@ -105,3 +105,4 @@ loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 liftoff.io, 7f6945815e6, RESELLER
 yeahmobi.com, 5135195, RESELLER
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+facebook.com, 391747685650430, RESELLER, c3e20eee3f780d68
